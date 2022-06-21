@@ -1,4 +1,4 @@
-# Analysis code for Schwalb et al. 2022, 
+# Analysis code for Schwalb et al. 2022
 # Distributed under CC BY 4.0 license: https://creativecommons.org/licenses/by/4.0/
 
 # Packages
