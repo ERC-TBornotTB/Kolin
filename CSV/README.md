@@ -5,6 +5,6 @@
 
 **Terminology:**
 - Newly discovered bacillary pulmonary TB case: Persons with bacteriologically confirmed tuberculosis found during the year in question, and not previously notified as having active diseases.
-- Chronic bacillary excretors: Persons who had persistently excreted tubercle bacilli during the previous two years, or even longer.
+- Chronic bacillary excretors: Persons who had persistently excreted bacilli during the previous two years, or even longer.
 - Total bacillary pulmonary TB case: The sum of new and chronic cases, plus relapses and other remaining cases.
 
